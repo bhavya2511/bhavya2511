@@ -11,7 +11,6 @@
 - 📚 Final year @ SVNIT Surat
 - 🔬 Research in Facial Expression Recognition (preprint out)
 - 🏆 3rd place CTF @ Khalifa University (500+ participants)
-- 🇦🇪 UAE Golden Visa holder
 
 ## Get in touch
 📧 bhavyaushas1602@gmail.com
