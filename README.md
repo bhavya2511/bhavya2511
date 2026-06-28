@@ -164,7 +164,7 @@ An accessibility-first Android voice assistant validated with real senior citize
 
 | 🏆 Recognition | Details |
 |---|---|
-| Qualified 2nd Round — Flipkart Gridlock Challenge 2026 |
+| Qualified 2nd Round |  Flipkart Gridlock Challenge 2026 |
 | 3rd Place — Capture The Flag (CTF) | Summer School, Khalifa University, UAE (2026) — 500+ participants |
 | Honourable Mention — PowerMind Hackathon | Powered by Adani, NIT Surat (2026) |
 
