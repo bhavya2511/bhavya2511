@@ -164,38 +164,15 @@ An accessibility-first Android voice assistant validated with real senior citize
 
 | 🏆 Recognition | Details |
 |---|---|
+| Qualified 2nd Round — Flipkart Gridlock Challenge 2026 |
 | 3rd Place — Capture The Flag (CTF) | Summer School, Khalifa University, UAE (2026) — 500+ participants |
 | Honourable Mention — PowerMind Hackathon | Powered by Adani, NIT Surat (2026) |
-| Bronze Medal — Football | All India Inter-NIT Football Tournament, NIT Rourkela (2024) |
+
 
 </div>
 
 ---
 
-### Certifications
-
-**Khalifa University**
-
-<img src="https://img.shields.io/badge/AI%20%26%20Cyber%20Security%20Summer%20School-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20%26%20Cyber%20Security%20Winter%20School-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white" />
-
-**Google for Startups**
-
-<img src="https://img.shields.io/badge/Prompt%20to%20Prototype-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-
-**Acmegrade**
-
-<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-**GraduVation**
-
-<img src="https://img.shields.io/badge/Cyber%20Security-A78BFA?style=for-the-badge&logo=hackthebox&logoColor=white" />
-
-**Dubai Future Foundation**
-
-<img src="https://img.shields.io/badge/1M%20Prompters-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
-
----
 
 ### GitHub Analytics
 
