@@ -230,6 +230,7 @@ Learning:
   - Production MLOps for vision and LLM systems
 
 Building:
+  - SparkOS — Full-Stack AI agency-operations platform
   - Document-Grounded Conversation AI (RAG with citation guarantees)
   - SafePlace — AI-assisted mental health platform
 
