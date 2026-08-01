@@ -99,7 +99,7 @@ Production-grade RAG system for PDF Q&A with hybrid retrieval and citation highl
 | **Performance** | Hybrid dense + BM25 retrieval fused via Reciprocal Rank Fusion, reranked with ms-marco-MiniLM cross-encoder |
 | **Security** | LLM restricted to citing only IDs it was explicitly given — no fabricated citations possible |
 | **Impact** | Full claim traceability via an interactive PDF viewer that jumps to and highlights the exact source chunk |
-| **Repository** | [github.com/bhavya2511/rule-based-prompt-system](https://github.com/bhavya2511/rule-based-prompt-system) |
+| **Repository** | [github.com/bhavya2511/Document-Grounded-Conersation-AI-using-RAG](https://github.com/bhavya2511/Document-Grounded-Conersation-AI-using-RAG.git) |
 
 A LangGraph-based generation engine blocks any uncited claim before it reaches the user, so every answer is grounded in verified retrieved evidence only.
 
