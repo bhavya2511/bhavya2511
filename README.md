@@ -27,7 +27,7 @@
 ### About Me
 
 ```
-Final-year AI student who has spent the last two years building full-stack
+Final-year AI student who has investing time in building full-stack
 applications, fine-tuning vision models, and competing in cybersecurity challenges
 rather than only researching them.
 ```
